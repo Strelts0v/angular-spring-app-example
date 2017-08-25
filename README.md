@@ -6,7 +6,7 @@ Example of web app with client side based on Angular framework and server side b
 - Angular framework
 
 # Launching client
-To launch client angular application from client folder input in console followinf command:
+To launch client angular application from client folder input in console following command:
 
 npm start
 
