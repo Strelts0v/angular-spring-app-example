@@ -11,4 +11,4 @@ To launch client angular application from client folder input in console followi
 npm start
 
 # Launching server
-Execute Application class from IDE or use maven to generate war file and use via web container (for example Tomcat)
+class Application - entry point of application, you can laucn it from IDE (for example InteliJ IDEA) or use MAVEN to generate war file and launch via web container (for example Tomcat)
